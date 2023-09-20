@@ -1,5 +1,6 @@
 # Im-loki
 ### Hi there 👋, my name is Joowon Yang
+* * *
 #### I am IOS programmer
 <img src="https://github.com/lm-loki/Im-loki/assets/123723493/a708fe1a-925e-484c-88a0-d8137a1a017e" width= "500" height= "200">
 
@@ -10,9 +11,9 @@
 
 Skills: IOS / figma
 
-- 🌱 I’m currently learning IOS and xcode 
-- 🤔 I’m looking for help with studying Swift 
-- 💬 Ask me about following github
+> 🌱 I’m currently learning IOS and xcode 
+>   > 🤔 I’m looking for help with studying Swift 
+>   >   >💬 Ask me about following github
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lm-loki)  
