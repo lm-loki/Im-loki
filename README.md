@@ -1,7 +1,7 @@
 # Im-loki
 ### Hi there 👋, my name is Joowon Yang
 #### I am IOS programmer
-![I am IOS programmer](/Users/joowon/Downloads/coding-926242_1280.jpg)
+![I am IOS programmer](![coding-926242_1280](https://github.com/lm-loki/Im-loki/assets/123723493/a708fe1a-925e-484c-88a0-d8137a1a017e)
 
 2023년 3월 야곰아카데미 스타터 코스 이수<br/>
 2023년 9월 appSchool IOS개발코스 이수중<br/>
