@@ -1,7 +1,6 @@
-# Im-loki
-### Hi there 👋, my name is Joowon Yang
-#### I am IOS programmer
-<img src="https://github.com/lm-loki/Im-loki/assets/123723493/a708fe1a-925e-484c-88a0-d8137a1a017e" width= "500" height= "200">
+# Hi there 👋, 내 이름은 양주원입니다
+#### IOS 프로그래머
+<img src="https://github.com/lm-loki/Im-loki/assets/123723493/a708fe1a-925e-484c-88a0-d8137a1a017e" width= "600" height= "200">
 
 ## Skills & Language  
 
@@ -10,7 +9,7 @@
 
 ### Swift
 - 코드를 읽고 해석할 수 있습니다.
-- Clean code 지향합니다.
+- 모든 팀원이 이해하기 쉽도록 작성된 코드, Clean code 지향합니다.
 
 ### Tool
 - Figma를 이용해 스토리보드 구상할 수 있습니다.
@@ -32,4 +31,5 @@ figma를 사용해서 스토리보드 구현
 현재 랜덤채팅어플 개발중<br/>
 
 국민대 화학과 졸업  
-
+### Contact
+al4126@naver.com
