@@ -3,9 +3,9 @@
 #### I am IOS programmer
 ![I am IOS programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-2023년 3월 야곰아카데미 스타터 코스 이수
-현재 랜덤채팅어플 개발중
-2023년 9월 appSchool IOS개발코스 이수중
+2023년 3월 야곰아카데미 스타터 코스 이수<br/>
+현재 랜덤채팅어플 개발중<br/>
+2023년 9월 appSchool IOS개발코스 이수중<br/>
 
 
 Skills: IOS / figma
@@ -17,4 +17,3 @@ Skills: IOS / figma
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lm-loki)  
 
-in/jlim/)](https://www.linkedin.com/in/jlim/)
